@@ -1,0 +1,42 @@
+{
+  "event": {
+    "name": "EPFL Investor Day 2026",
+    "date": "2026-11-25",
+    "location": {
+      "venue": "SwissTech Convention Center",
+      "address": "Route Louis-Favre 2, 1024 Ecublens, Lausanne, Switzerland",
+      "coordinates_approx": [46.518, 6.566]
+    },
+    "attendees_registered": "1500+",
+    "investors_expected": "300+",
+    "startups_pitching": "45-49",
+    "startup_village": 29,
+    "main_partner": "UBS",
+    "supporters": ["Swisscom Ventures", "Canton of Vaud", "AWS"]
+  },
+  "people": [
+    {"name": "Edouard Bugnion", "role": "EPFL Vice President for Innovation and Impact"},
+    {"name": "Raphaël Conz", "role": "Canton de Vaud"},
+    {"name": "Anna Fontcuberta i Morral", "role": "President of EPFL"},
+    {"name": "Yves Felder", "role": "Regional Director UBS Romandie"},
+    {"name": "Anousheh Ansari", "role": "CEO of XPRIZE"},
+    {"name": "Jordi Montserrat", "role": "Venturelab Managing Partner"},
+    {"name": "Alexandre Sallinen", "role": "Andromede AI"},
+    {"name": "Pierre Baqué", "role": "Neural Concept"},
+    {"name": "Harald Nieder", "role": "Redalpine General Partner"},
+    {"name": "Florian Schweitzer", "role": "b2venture"},
+    {"name": "Lajla Aganovic", "role": "Logitech"},
+    {"name": "Emile de Rijk", "role": "SWISSto12"},
+    {"name": "Frank Bonnet", "role": "Bionomous CEO"},
+    {"name": "Ana Hernando Ariza", "role": "Bionomous CMO"}
+  ],
+  "startup_village": {
+    "Life Sciences & Health": ["Adoram Therapeutics", "ARKAIYA", "Artiria", "AzureCell", "BAIO Labs", "Bionomous", "Emovo Care", "Healium", "HelioW", "HelixScreen", "SmartHear", "Juvion Health Sciences", "HM Care"],
+    "Engineering, Energy & Cleantech": ["Aerostrad", "Enerdrape", "Sixteen44", "BROD-X", "VIRA DRONES", "Zesst SA", "MAUS Robotics"],
+    "AI & Digital Technologies": ["MobiLysis", "Caryfy AI", "Techponics", "Synature", "XtraMind AI"],
+    "Sports & Human Performance": ["Aiving", "Insiders Live", "OptiZone", "TWIICE"]
+  },
+  "languages": ["DE", "FR", "IT", "RM"],
+  "crypto_notes": "$CHF $ZCHF connections to check on UnicornsMap.com platform",
+  "task": "Map all 300 investors and 49 deeptech startups, QA in official Swiss languages, link crypto assets"
+}
